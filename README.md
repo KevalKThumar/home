@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevalkthumar" alt="kevalkthumar" /></a> </p>
 
-- 🔭 I’m currently working on [My Tube (backend for like youtube)](https://github.com/KevalKThumar/Backend.git)
+- 🔭 I’m currently working on [My Tube (backend like youtube)](https://github.com/KevalKThumar/Backend.git)
 
 - 🌱 I’m currently learning **Flutter,React,NodeJs,Rust**
 
